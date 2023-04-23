@@ -1,0 +1,46 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to right, #0d3c60, #03161b);
+  color: white;
+}
+
+h3 {
+  background-color: #2f3640;
+  color: white;
+  padding: 10px;
+}
+
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 80%;
+  max-width: 800px;
+  text-align: center;
+}
+
+th {
+  background-color: #2f3640;
+  color: white;
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  background-color: #09488f;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  background-color: #11998e;
+}

@@ -17,6 +17,14 @@ $m = query("SELECT * FROM mahasiswa WHERE id = $id");
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Detail Mahasiswa</title>
+  <link rel="stylesheet" href="style_detail.css">
+</head>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Detail Mahasiswa</title>
 </head>
 
 <body>
